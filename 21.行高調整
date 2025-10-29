@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>行高調整</title>
+    <style>
+      .lh1{
+        line-height:280%;<!--行高-->
+      }
+    </style>
+  </head>
+  <body>
+    <span> class="lh1">京都全新話題餐廳「FUTURE TRAIN KYOTO DINER ＆ CAFÉ」將廢棄鐵道與退役雷鳥號改造成沉浸式列車餐廳，結合光影劇場與創意料理，打造獨一無二的鐵道美食體驗。</span>
+  </body>
+</html>
