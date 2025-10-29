@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>css</title>
+        <!--外部css-->
+        <link rel="stylesheet" href="https://rawcdn.githack.com/shhuangmust/html/fc0253b382011528e5bcc69e74425c6d03f1adc3/import.css">
+        <!--內部css-->
+        <style>
+            h2 {color:yellow;} 
+        </style>
+    </head>
+    <body>
+        <h1 style="color:blue;">
+            這是什麼顏色 <!--內文css-->
+        </h1>
+        <h2>這是什麼顏色</h2>
+        <h3>這是什麼顏色</h3>
+    </body>
+</html>
