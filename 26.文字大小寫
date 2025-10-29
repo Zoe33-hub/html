@@ -1,0 +1,16 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            h1{text-transform:uppercase}
+            h1{text-transform:lowercase}
+            h1{text-transform:capitalize}
+        </style>
+    </head>
+    <body>
+        <h1>This is some text in a paragraph.</h1>
+        <h2>This is some text in a paragraph.</h2>
+        <h3>This is some text in a paragraph.</h3>
+    </body>
+</html>
