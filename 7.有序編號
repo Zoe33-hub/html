@@ -1,0 +1,10 @@
+<html>
+    <head><title>有序編號</title></head>
+    <body>
+        <ol>我喜歡的明星<!--有序編號-->
+            <li>宋江</li><!--編號項目-->
+            <li>Twice</li>
+            <li>ive</li>
+        </ol>
+    </body>
+</html>
